@@ -1,7 +1,7 @@
 name: IDK
 favicon: null
 layout_spectrum: 0.7158783262129873
-typography_spectrum: 0.178540478926152
+typography_spectrum: 0.26612
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.05376211879774928
-  lightness: 0.2826772367116064
-  saturation: 0.5380836906842887
-  rhythmicContrast: 0.4921068730764091
+  brandStrength: 0.5
+  lightness: 0.375
+  saturation: 0.0625
+  rhythmicContrast: 0.5
 purpose: []
