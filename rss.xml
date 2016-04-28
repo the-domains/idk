@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[IDK]]></title>
         <description><![CDATA[IDK]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/idk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 01:35:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 01:50:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/idk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Vote for Bernie!!!</p>]]></description>
-            <link>undefinedvote-for-bernie/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5f04091-6aad-47f0-b445-b4acfe5c4e68.png">]]></description>
+            <link>https://thegrid.ai/idk/vote-for-bernie/index.html</link>
             <guid isPermaLink="false">ba022e89-94d8-48f9-be54-a7eb7565ba4e</guid>
-            <pubDate>Thu, 28 Apr 2016 01:35:05 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2016 01:50:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
